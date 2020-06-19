@@ -4,7 +4,7 @@
 
 <blockquote align="center">“Se você continuar fazendo sempre as mesmas coisas, terá sempre o mesmo resultado”</blockquote>
 
-<h1 align="center"> Modulo 02 - Foodfy </h1>
+<h1 align="center">  Foodfy </h1>
 
 ## :pizza: O que é Foodfy
 Foodfy é um website com receitas e ingredientes, feito no bootcamp da rocketseat
