@@ -4,8 +4,24 @@
 
 <blockquote align="center">“Se você continuar fazendo sempre as mesmas coisas, terá sempre o mesmo resultado”</blockquote>
 
-## Foodfy 
+<h1 align="center"> Modulo 02 - Foodfy </h1>
 
+## :pizza: O que é Foodfy
+Foodfy é um website com receitas e ingredientes, feito no bootcamp da rocketseat
+
+
+
+
+## :email: Faq
+- HTML
+- CSS
+- Javascript
+
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 <a href="LICENSE" >
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
-  </a>
+    
+
+
+
+Feito com :blue_heart: by [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
