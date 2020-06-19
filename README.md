@@ -18,10 +18,10 @@ Foodfy é um website com receitas e ingredientes, feito no bootcamp da rocketsea
 - Javascript
 
 ## :memo: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
-<a href="LICENSE" >
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="LICENSE">[LICENSE](/LICENSE) para mais detalhes.
+
     
 
 
 
-Feito com :blue_heart: by [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
+Feito com :blue_heart: por [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
