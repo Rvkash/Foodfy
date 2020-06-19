@@ -1,1 +1,1 @@
-<h1 align="center">![Alt text](/assets/chef.png?raw=true "Optional Title")</h1>
+<h1 align="center">![Alt text](/assets/chef.png)</h1>
